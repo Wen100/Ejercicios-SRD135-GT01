@@ -1,0 +1,15 @@
+e:\Archivos\Ciclo X\DRS\Guia 1\Ejercicios-SRD135-GT01\bin\Debug\net10.0\Ejercicios SRD135 GT01.exe
+e:\Archivos\Ciclo X\DRS\Guia 1\Ejercicios-SRD135-GT01\bin\Debug\net10.0\Ejercicios SRD135 GT01.deps.json
+e:\Archivos\Ciclo X\DRS\Guia 1\Ejercicios-SRD135-GT01\bin\Debug\net10.0\Ejercicios SRD135 GT01.runtimeconfig.json
+e:\Archivos\Ciclo X\DRS\Guia 1\Ejercicios-SRD135-GT01\bin\Debug\net10.0\Ejercicios SRD135 GT01.dll
+e:\Archivos\Ciclo X\DRS\Guia 1\Ejercicios-SRD135-GT01\bin\Debug\net10.0\Ejercicios SRD135 GT01.pdb
+e:\Archivos\Ciclo X\DRS\Guia 1\Ejercicios-SRD135-GT01\obj\Debug\net10.0\Ejercicios SRD135 GT01.GeneratedMSBuildEditorConfig.editorconfig
+e:\Archivos\Ciclo X\DRS\Guia 1\Ejercicios-SRD135-GT01\obj\Debug\net10.0\Ejercicios SRD135 GT01.AssemblyInfoInputs.cache
+e:\Archivos\Ciclo X\DRS\Guia 1\Ejercicios-SRD135-GT01\obj\Debug\net10.0\Ejercicios SRD135 GT01.AssemblyInfo.cs
+e:\Archivos\Ciclo X\DRS\Guia 1\Ejercicios-SRD135-GT01\obj\Debug\net10.0\Ejercicios SRD135 GT01.csproj.CoreCompileInputs.cache
+e:\Archivos\Ciclo X\DRS\Guia 1\Ejercicios-SRD135-GT01\obj\Debug\net10.0\Ejercicios SRD135 GT01.sourcelink.json
+e:\Archivos\Ciclo X\DRS\Guia 1\Ejercicios-SRD135-GT01\obj\Debug\net10.0\Ejercicios SRD135 GT01.dll
+e:\Archivos\Ciclo X\DRS\Guia 1\Ejercicios-SRD135-GT01\obj\Debug\net10.0\refint\Ejercicios SRD135 GT01.dll
+e:\Archivos\Ciclo X\DRS\Guia 1\Ejercicios-SRD135-GT01\obj\Debug\net10.0\Ejercicios SRD135 GT01.pdb
+e:\Archivos\Ciclo X\DRS\Guia 1\Ejercicios-SRD135-GT01\obj\Debug\net10.0\Ejercicios SRD135 GT01.genruntimeconfig.cache
+e:\Archivos\Ciclo X\DRS\Guia 1\Ejercicios-SRD135-GT01\obj\Debug\net10.0\ref\Ejercicios SRD135 GT01.dll

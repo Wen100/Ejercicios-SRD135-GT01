@@ -1,0 +1,8 @@
+{
+  "code-runner.runInTerminal": true,
+  "code-runner.ignoreSelection": true,
+  "code-runner.executorMap": {
+    "csharp": "dotnet run --project \"$workspaceRoot/Ejercicios SRD135 GT01.csproj\"",
+    "csproj": "dotnet run --project $fullFileName"
+  }
+}
